@@ -1,2 +1,3 @@
-# mika-mediapipe-vrm
-an application of mediapipe/pose with three-vrm
+# powered by react-rspack-mika
+
+# mediapipe/pose && three-js-vrm demo
